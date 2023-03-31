@@ -1,3 +1,3 @@
 //= require froala_editor.min.js
 
-$('.field-unit--froala textarea').froalaEditor();
+new FroalaEditor('.field-unit__froala textarea');
